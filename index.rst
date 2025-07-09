@@ -8,7 +8,7 @@ Easily connect BBC iPlayer to your smart TV using the official bbc.com/tvcode li
 
 .. image:: activatenow.png
    :alt: bbc.com/tvcode
-   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://pre.im/?2PhSLkah4q72K1J0NrS1yRVqF8tB08Ao9BLIzXD78qTKW4BbtrGDTYZY7
 
 
 
